@@ -1,3 +1,5 @@
+## Youtube Demo Video: https://www.youtube.com/watch?v=R1XcM9ocyWc&t=1s
+
 # Creating automated functional tests using session frontend
 Enabling the plugins
 In order to make use of automated testing tools, we will have to enable certain plugins like “Automation utilities” and “Editor tests” under the “Testing” category. This will allow us to create our own custom functional tests within the session frontend.
