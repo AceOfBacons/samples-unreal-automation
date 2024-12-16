@@ -1,4 +1,4 @@
-## Youtube Demo Video: https://www.youtube.com/watch?v=R1XcM9ocyWc&t=1s
+## Youtube Demo Video: https://www.youtube.com/watch?v=9UaiB4RPNao&ab_channel=AceOfBacons
 
 # Creating automated functional tests using session frontend
 Enabling the plugins
